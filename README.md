@@ -1,2 +1,1 @@
-# PROYECTO15
-EXPLOTAR GLOBOS:PARTE2
+# ExplotarGlobos2-plantilla
